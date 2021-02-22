@@ -1,0 +1,16 @@
+{
+  "name": "next-pipe-props",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./dist/next-pipe.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
