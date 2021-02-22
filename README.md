@@ -1,6 +1,7 @@
 ## next pipe props
 
 [![NPM](https://nodei.co/npm/next-pipe-props.png?compact=true)](https://npmjs.org/package/next-pipe-props)
+</br>
 Next-pipe-props is a zero dependency pacakge meant to give a pipe helper when getting ssr or static props to a Next.js page.
 
 ## installation
