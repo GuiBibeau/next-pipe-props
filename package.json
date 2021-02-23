@@ -1,6 +1,6 @@
 {
   "name": "next-pipe-props",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "./dist/next-pipe.js",
   "homepage": "https://github.com/gbibeaul/next-pipe-props#readme",
@@ -13,5 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.1.5"
-  }
+  },
+  "types": "./dist/next-pipe.d.ts"
 }
