@@ -13,5 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.1.5"
-  }
+  },
+  "types": "./dist/next-pipe.d.ts"
 }
